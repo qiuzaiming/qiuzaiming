@@ -4,7 +4,7 @@
 
 I'm an Android Application Engineer 😎.
 
-<img alt="Coder gif" align="right" alt="GIF" src="https://github.com/AliAzaz/AliAzaz/blob/master/coder.gif?raw=true" width="408" height="318" />
+<img alt="Coder gif" align="right" alt="GIF" src="https://github.com/qiuzaiming/qiuzaiming/blob/master/coder.gif?raw=true" width="408" height="318" />
 
 </br>
 
